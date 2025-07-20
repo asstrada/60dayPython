@@ -1,3 +1,3 @@
 # 60dayPython
-- [x] Day 1 ola-mundo
-- [] Day 2
+- [x] Day 1 - ola-mundo
+- [x] Day 2
