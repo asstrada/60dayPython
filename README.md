@@ -3,4 +3,4 @@
 - [x] Day 2 - Soma de dois numeros 
 - [x] Day 3 - Condicionais 
 - [x] Day 4 - repetição 
-- [] Day 5
+- [x] Day 5 - funcao quadrado
