@@ -4,3 +4,8 @@
 - [x] Day 3 - Condicionais 
 - [x] Day 4 - repetição 
 - [x] Day 5 - funcao quadrado
+- [x] Day 6 - listas
+- [] Day 7 -
+- [] Day 8 -
+- [] Day 9 -
+- [] Day 10 -
